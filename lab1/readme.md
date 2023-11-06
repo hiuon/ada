@@ -2,8 +2,8 @@
 
 Данные - NSL-KDD (нормальный и атакующий трафик), Бинарная классификация с помощью XgBoost.
 
-Весовые коэффициенты признаков:
-![Screenshot](screenshot.png)(./pictures/weights.png)
+### Весовые коэффициенты признаков:
+![Screenshot](./pictures/weights.png)
 
-Дерево решений:
+### Дерево решений:
 ![Screenshot](./pictures/tree.png)
